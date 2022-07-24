@@ -16,3 +16,8 @@ Navigate to `http://localhost:4567/`
 ## Running tests
 
 `test_command` (e.g. `rspec`)
+
+
+## Awesome Readmes to inspire
+
+'https://github.com/matiassingers/awesome-readme'
