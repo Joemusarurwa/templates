@@ -2,7 +2,7 @@
 
 ## 1. Describe the Problem
 
-_Put or write the user story here. Add any clarifying notes you might have._
+_Put or write the user story right here. Add any clarifying notes you might have._
 
 ## 2. Design the Class Interface
 
